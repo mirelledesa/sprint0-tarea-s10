@@ -25,7 +25,6 @@
 * **Cuando** completa los campos de contraseña y confirmación con un formato incorrecto (por ejemplo, sólo letras: "ejemplo"),
 * **Entonces** el sistema valida los datos en tiempo real, bloquea el envío del formulario y muestra un mensaje de error en la pantalla que dice: *"La contraseña debe incluir letras y números"*.
 
----
 
 ## Desglose de Tareas
 
@@ -43,6 +42,7 @@
 * Alojar y desplegar el Back-End y la Base de Datos en la nube.
 * Realizar pruebas de extremo a extremo con el sitio ya publicado en internet para asegurar el correcto funcionamiento del flujo de registro.
 
----
+Notion: https://app.notion.com/p/392f75f8a4a380948a1dc88c8853178c?source=copy_link
+
 
 ## 📸 Demo
